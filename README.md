@@ -8,18 +8,30 @@ You can click the Preview link to take a look at your changes.
 - :round_pushpin: I’m currently working at ONE Tech Stop Vietnam.
 - 👀 I am interested in the following topics: Automation Testing, Remote Sensing and Computer Vision.<br>
 ## 📫 How to reach me: 
-<p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+<!-- https://icons8.com -->
+<div align="center">
+
+  <a href="mailto:moontran104qn@gmail.com" target="top">
+    <img src="https://img.icons8.com/clouds/100/gmail-new.png" alt="gmail-new" alt="moontran104qn-email" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100007320825664" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="tranminhnguyet104qn@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  
+  <a href="https://www.facebook.com/profile.php?id=100007320825664" target="blank">
+    <img src="https://img.icons8.com/clouds/100/facebook-new.png" alt="moontran104qn-facebook" />
   </a>
-</p>
+
+  <a href="https://instagram.com/moon.104qn" target="blank">
+    <img src="https://img.icons8.com/clouds/100/instagram-new--v3.png" alt="moontran104qn-instagram" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/nguyet-tran-736b7a220/" target="blank">
+    <img src="https://img.icons8.com/clouds/100/linkedin.png" alt="moontran104qn-linkedin" />
+  </a>
+  
+  <a href="https://github.com/moontran104qn" target="top">
+    <img src="https://img.icons8.com/clouds/100/github.png" alt="gmail-new" alt="moontran104qn-github" />
+  </a>
+  
+</div>
+
+<br>
 
