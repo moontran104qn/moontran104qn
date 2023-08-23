@@ -34,10 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- https://simpleicons.org/ -->
 
-<span><img src="https://img.shields.io/badge/Coursera-FFFFFF?logo=coursera&logoColor=0056D2" alt="Coursera logo" title="Coursera" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Coursera-000000?logo=coursera&logoColor=0056D2" alt="Coursera logo" title="Coursera" height="25" /></span>
 &nbsp;
 - [SQL for Data Science](https://coursera.org/share/4f0a48736b9fe13f4b798111796dd47f)
 - [Data Wrangling, Analysis and AB Testing with SQL](https://coursera.org/share/641c8b7cc43008b96cc0abb8106e2281)
-
-<span><img src="https://img.shields.io/badge/Coursera-000000?logo=coursera&logoColor=0056D2" alt="Coursera logo" title="Coursera" height="25" /></span>
-&nbsp;
